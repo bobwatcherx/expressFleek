@@ -1,0 +1,5 @@
+name: nama-aplikasi
+framework: express
+region: us-west-2
+buildCommand: npm run build
+startCommand: npm start
